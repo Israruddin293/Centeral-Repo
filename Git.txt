@@ -1,1 +1,15 @@
- This is Second time we are commiting Text FIles Let COmmit this text file and push into git hub  
+ This is Second time we are commiting Text FIles Let COmmit this text file and push into git hub.
+
+THis is Second time we are updating this Text files 
+
+To push anything from our local repo we need to follow some Steps 
+
+1- Create a Directory  and GO inside it
+
+2- create those files which you want to push 
+
+3- write a command "git init " to change directory into repository 
+
+4- git add . to move those files from working area to staging area 
+
+5- git  commit -m    
