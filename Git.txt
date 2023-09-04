@@ -12,4 +12,19 @@ To push anything from our local repo we need to follow some Steps
 
 4- git add . to move those files from working area to staging area 
 
-5- git  commit -m    
+5- git  commit -m "Any Message
+
+ After this we have to connect with Central Repo TO push our COde from local repo to Remote Repo"
+
+6- git remote add origin <Central-Repo Url>
+
+7- git push -u origin main / master
+
+ Now if we want to pull our code from remote server/repo to our local repo, FOr this we have follow 
+command but before that we have to create a directory and go inside it
+
+1- git init 
+
+2- git remote add origin <repo url>
+
+3- git pull -u origin master/main 
