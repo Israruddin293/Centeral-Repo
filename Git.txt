@@ -28,3 +28,9 @@ command but before that we have to create a directory and go inside it
 2- git remote add origin <repo url>
 
 3- git pull -u origin master/main 
+
+Now we pull this Content from github and modify Some Content and Add some related
+information
+
+As we follow above command for pull the Content From git hub and again we will commit and 
+push this content to Gihub again
